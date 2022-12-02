@@ -1,5 +1,5 @@
 # Movie-Recommendation-System
-diflib is used to get close match of user favourite movie
+difflib is used to get close match of user favourite movie
 ...
 
 
